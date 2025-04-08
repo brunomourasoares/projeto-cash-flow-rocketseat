@@ -1,0 +1,106 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.CashFlow.iml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+# User specific
+**/.idea/**/workspace.xml
+**/.idea/**/tasks.xml
+**/.idea/shelf/*
+**/.idea/dictionaries
+**/.idea/httpRequests/
+
+# Sensitive or high-churn files
+**/.idea/**/dataSources/
+**/.idea/**/dataSources.ids
+**/.idea/**/dataSources.xml
+**/.idea/**/dataSources.local.xml
+**/.idea/**/sqlDataSources.xml
+**/.idea/**/dynamic.xml
+
+# Rider
+# Rider auto-generates .iml files, and contentModel.xml
+**/.idea/**/*.iml
+**/.idea/**/contentModel.xml
+**/.idea/**/modules.xml
+
+*.suo
+*.user
+.vs/
+[Bb]in/
+[Oo]bj/
+_UpgradeReport_Files/
+[Pp]ackages/
+
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Rider-specific files and directories
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ReSharper-specific files and directories
+_ReSharper.*/
+*.DotSettings
+*.DotSettings.user
+
+# Build output directories
+bin/
+obj/
+out/
+build/
+debug/
+release/
+
+# Package restore folders
+packages/
+**/packages/
+node_modules/
+
+# User-specific files and settings
+*.userprefs
+*.suo
+*.user
+*.sln.docstates
+*.testsettings
+*.runsettings
+*.dbmdl
+*.vspscc
+*.vssscc
+*.local
+*.log
+*.patch
+*.bak
+*.tmp
+*.resharper.user
+
+# Temporary files and folders
+[Tt]emp/
+_backup/
+*.~*
+*.swp
+*.swo
+*.pid
+*.dump
+
+# Editor-specific files (other common editors)
+.vscode/
+.atom/
+.sublime-project
+.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
